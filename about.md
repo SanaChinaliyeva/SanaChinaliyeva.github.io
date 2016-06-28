@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Sana, I'm a student of NIS CB Almaty, I have lived in Taraz for 8 years and now I'm here. Last year I've studied in NIS PM school. I have 2 sisters and one brother. I like singing, taking photos and reading books. 
 
-### More Information
+### Contact me:)
 
-A place to include any other types of information that you'd like to include about yourself.
+ e-mail: sana.chinaliyeva@gmail.com
+  
+social networks: https://www.facebook.com/sana.chinaliyeva // http://vk.com/sanabanana2016
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
