@@ -2,7 +2,7 @@
 layout: post
 title: Preparing to final presentation!
 ---
-This friday we will already have finl presentations. 
+This friday we will already have final presentations. 
 
 We have this ones to present (3 of them):
 
