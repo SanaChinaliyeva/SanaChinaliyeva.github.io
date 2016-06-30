@@ -2,6 +2,8 @@
 layout: post
 title: Preparing to final presentation!
 ---
+![_config.yml](http://www.englishtrackers.com/english-blog/wp-content/uploads/2012/11/freevector-presentation.jpeg)
+
 This friday we will already have final presentations. 
 
 We have this ones to present (3 of them):
