@@ -3,7 +3,7 @@ layout: post
 title: Light up your life and life of others!
 --- 
 
-![_config.yml] (https://img15.androidappsapk.co/300/e/7/f/kz.lightapp.lightapp.png)
+![_config.yml] ({{ "images//lightup-final-circle-1.png" | absolute_url }})
 
 Once upon in November of 2017, a friend of mine told me about [Technovation Challenge] (https://technovationchallenge.org/) , a competition which aims educating girls through encouraging them to create a mobile application that can help solve social problems.
 
